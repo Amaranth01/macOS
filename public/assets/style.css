@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+body {
+    background: linear-gradient(215deg,darkblue, darkred, purple, cadetblue, darkred) no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+}
+
+img {
+    width: 5vh;
+}
+
+div {
+    position: absolute;
+    bottom: 1%;
+    left: 33%;
+}
